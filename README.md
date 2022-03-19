@@ -34,5 +34,5 @@
 
 
 [website]: https://unitatech.netlify.app/
-[twitter]: https://twitter.com/K4J02
+[twitter]: https://twitter.com/KajoBackDev
 [instagram]: https://www.instagram.com/kajetan_dyrcz/
