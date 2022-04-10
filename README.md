@@ -1,7 +1,7 @@
 ### Hi there, I'm Kajetan - aka Kajo 👋 
 ## I'm a young man with great ambitions and greater goals
 
-- 🔭 I’m currently working on my website
+- 🔭 I’m currently working on my web app
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with other backend masters 
 - 🥅 2022 Goals: To get into university, start my own business
