@@ -29,14 +29,6 @@
 
 
 
-#### Github Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Kajo-dev&count_private=true&theme=merko&hide=contribs,prs)
-
-
-#### Coding Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajo-dev&layout&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
