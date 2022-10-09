@@ -1,7 +1,7 @@
 ## Hi I'm Kajetan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@Kajo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KajoBackDev)](https://twitter.com/KajoBackDev) [![Linkedin Badge](https://img.shields.io/badge/-Kajetan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajetan-dyrcz/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kajetan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajetan-dyrcz/) 
 
 
 - 🔭 I’m currently working at my Online shop
