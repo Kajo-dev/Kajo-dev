@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kajetan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajetan-dyrcz/) 
 
 
-- 🔭 I’m currently working at my Online shop
+- 🔭 I’m currently working on my Online shop
 - ⚡ I’m currently learning Django REST framework
 
 #### Languages & Tools
