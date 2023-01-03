@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my Online shop
-- ⚡ I’m currently learning JS
+- ⚡ I’m currently learning Java
 
 #### Languages & Tools
 
