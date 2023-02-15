@@ -1,11 +1,9 @@
-## Hi I'm Kajetan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Kajetan Python Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+I'm a young Back-End developer. My goal is to become a Full-stack developer, I devote my free time to astronomy and reading books about money and investing 📖
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kajetan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajetan-dyrcz/) 
 
-
-- 🔭 I’m currently working on my Online shop
-- ⚡ I’m currently learning Java
 
 #### Languages & Tools
 
